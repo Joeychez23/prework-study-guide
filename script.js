@@ -9,7 +9,7 @@ function listTopics() {
 
 function selectTopic() {
  if (randomTopic === 'HTML') {
-   console.log("Let's study HTM!");
+   console.log("Let's study HTML!");
  } else if (randomTopic === 'CSS') {
    console.log("Let's study CSS!");
  } else if (randomTopic === 'Git') {
